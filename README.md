@@ -3,6 +3,12 @@ Skeleton is a simple, responsive boilerplate to kickstart any responsive project
 
 Check out <http://getskeleton.com> for documentation and details.
 
+*This is a version that has been customized for use in the Slidetrack project.*
+
+Changes:
+
+- Default font is *not* Raleway. Instead use "Glacial Indifference."
+
 ## Getting started
 
 There are a couple ways to download Skeleton:
